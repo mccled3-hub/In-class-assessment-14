@@ -13,15 +13,14 @@ html {
 body {
   margin: 0 auto;
   min-width: 500px;
-  margin: auto;
   background-color: #f3f7f8;
 }
 
 header, footer{
   text-align: center;
   min-width: 500px;
-  height: 50px;
-  padding: 15px 0 30px 0;
+  height: 90px;
+  padding: 1rem 0 2rem 0;
   background-color: #025159;
   color: #FFFFFF;
 }
@@ -54,6 +53,13 @@ img {
   height: auto;
 }
 
+h2 {
+  color: orange;
+  text-transform: uppercase;
+  text-align: left;
+  font-family: trilby, serif;
+}
+
 .cat {
   box-shadow: 0 1px 1px 0 rgba(0, 0, 0, 0.5);
   display: flex;
@@ -71,12 +77,12 @@ img {
   margin: 0.5rem 0;
 }
 .weight img {
-  width: 20px;
-  height: 20px;
+  width: 1.3rem;
+  height: 1.3rem;
   margin-right: 0.5rem;
 }
 .description {
-  font-size: 10px;
+  font-size: 12px;
   border-top: 1px solid #ddd;
   padding-top: 0.75rem;
   line-height: 1.5;
