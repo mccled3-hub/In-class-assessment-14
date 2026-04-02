@@ -46,7 +46,7 @@ header, footer{
 }
 
 footer p {
-  font-size: .8rem;
+  font-size: 1rem;
 }
 
 img {
@@ -76,6 +76,7 @@ img {
   margin-right: 0.5rem;
 }
 .description {
+  font-size: 10px;
   border-top: 1px solid #ddd;
   padding-top: 0.75rem;
   line-height: 1.5;
