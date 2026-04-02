@@ -13,7 +13,7 @@ html {
 body {
   margin: 0 auto;
   min-width: 500px;
-  background-color: #f3f7f8;
+  background-color: aqua;
 }
 
 header, footer{
@@ -21,7 +21,7 @@ header, footer{
   width: 100vw;
   height: 90px;
   padding: 1rem 0 2rem 0;
-  background-color: #025159;
+  background-color: skyblue;
   color: #FFFFFF;
 }
 
