@@ -54,10 +54,16 @@ img {
 }
 
 h2 {
-  color: orange;
+  color: red;
   text-transform: uppercase;
   text-align: left;
   font-family: trilby, serif;
+}
+
+h1 {
+  text-transform: uppercase;
+  color: orange;
+ font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .cat {
